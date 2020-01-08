@@ -110,5 +110,6 @@ public final class WxCpApiPathConsts {
     public static final String GET_EXTERNAL_CONTACT = "/cgi-bin/crm/get_external_contact?external_userid=";
     public static final String LIST_EXTERNAL_CONTACT = "/cgi-bin/externalcontact/list?userid=";
     public static final String GET_FOLLOW_USER_LIST = "/cgi-bin/externalcontact/get_follow_user_list";
+    public static final String GET_EXTERNAL_DETAIL = "/cgi-bin/externalcontact/get?external_userid=";
   }
 }
